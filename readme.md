@@ -30,9 +30,9 @@ QBRutracker is fast and open source Python 3 search plug-in for QBittorrent that
 
 1. download ```qbrutracker.py``` and follow this tutorial http://www.techsupportalert.com/qbittorrent-help-torrent-search-engine
 
-2. download magnet:?xt=urn:btih:628F28C998A79D780455DC1B60892DD721EE44D1 or http://rutracker.org/forum/viewtopic.php?t=4824458 into ```%localappdata%\qbittorrent```
+2. download magnet:?xt=urn:btih:628F28C998A79D780455DC1B60892DD721EE44D1 or http://rutracker.org/forum/viewtopic.php?t=4824458 into ```%localappdata%\qbittorrent``` (or ```~/.local/share/data/qBittorrent```)
 
-3. optionally put your public ```"tracker.txt"``` list into ```%localappdata%\qbittorrent\rutracker-torrents```
+3. optionally put your public ```"tracker.txt"``` list into ```%localappdata%\qbittorrent\rutracker-torrents``` (or ```~/.local/share/data/qBittorrent/rutracker-torrents```)
 
 
 *Search...*
