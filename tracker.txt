@@ -1,0 +1,13 @@
+http://bt2.t-ru.org/ann?magnet
+udp://9.rarbg.com:2710/announce
+udp://opentor.org:2710
+http://retracker.local/announce
+udp://tracker.coppersurfer.tk:6969
+udp://tracker.internetwarriors.net:1337/announce
+udp://tracker.leechers-paradise.org:6969/announce
+udp://tracker.sktorrent.net:6969/announce
+udp://zer0day.ch:1337/announce
+http://retracker.bashtel.ru/announce.php
+http://www.progressivetorrents.com/announce.php
+http://www.filebase.ws:5678/announce
+http://radioarchive.cc/announce.php
